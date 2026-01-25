@@ -34,8 +34,8 @@ Use a clear and meaningful title: `Add [Resource Name] to [Category]` or `Add [N
 
 Include:
 
--   [] A link to the resource
--   [] A brief explanation of why it should be included
+-   A link to the resource
+-   A brief explanation of why it should be included
 
 ------------------------------------------------------------------------
 
