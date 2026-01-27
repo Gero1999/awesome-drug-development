@@ -65,5 +65,7 @@ A curated list of **open-source tools and projects** across the **drug developme
 ---
 
 ## Learning Resources
+### YouTube Channels
+- **[MetrumRG]([https://github.com/insightsengineering/thevalidatoR](https://www.youtube.com/@metrumrg/courses))** – Full series courses on PK-PD modelling and pharmacometrics.
 
 ---
