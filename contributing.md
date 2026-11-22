@@ -18,10 +18,10 @@ Contributions can either be to:
 
 1.  Suggest new categories or improvements to existing categorization.
 
-2.  Add new entries to the bottom of the most relevant category. In that case, use the following format:
+2.  Add new entries in alphabetical order within the most relevant category using this format.
 
-```         
-[Resource Name](link) – Short description.
+```markdown
+- [Resource Name](link) - Short description.
 ```
 
 Keep descriptions brief and clear, starting with a capital letter and ending with a full stop (period).
@@ -41,6 +41,6 @@ Include:
 
 📚 **Additional Guidance**
 
-If you are unsure whether your contribution fits or how it should be styled, read the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) .
+If you are unsure whether your contribution fits or how it should be styled, read the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
 ------------------------------------------------------------------------
